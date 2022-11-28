@@ -1,0 +1,29 @@
+{
+    "laptop" : [
+
+        {
+            "id" : "1",
+            "brand" : "Lenovo",
+            "Serial Numbers" : "2141",
+            "userName" : "Robyn"
+        },
+        {
+            "id" : "2",
+            "brand" : "Mac",
+            "Serial Numbers" : "2142",
+            "userName" : "Reece"
+        },
+        {
+            "id" : "3",
+            "brand" : "Samsung",
+            "Serial Numbers" : "2143",
+            "userName" : "Kaylin"
+        },
+        {
+            "id" : "4",
+            "brand" : "HP",
+            "Serial Numbers" : "2144",
+            "userName" : "Liam"
+        }
+    ]
+}
